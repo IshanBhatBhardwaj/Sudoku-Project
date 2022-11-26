@@ -1,0 +1,1 @@
+print('Ishan is dumb')
