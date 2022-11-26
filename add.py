@@ -1,1 +1,0 @@
-print('Ishan is dumb')
